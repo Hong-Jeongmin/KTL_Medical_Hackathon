@@ -7,6 +7,7 @@
 - Pneunomothorax (PM)
 - Mammography (MG)
 
+자세한 사항은 pdf 참고.
 
 # Collaborator
 SKKU DMLab 
