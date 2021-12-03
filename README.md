@@ -1,6 +1,6 @@
 # 의료 빅데이터 활용 AI 영상진단 개발 해커톤
 
-:sparkles: **2nd Prize** 
+🥈 **2nd Prize** 
 
 :sparkles: **Task:**
 - Cardiomegaly(CM)
@@ -10,8 +10,8 @@
 자세한 사항은 pdf 참고.
 
 # Collaborator
-SKKU DMLab 
-손종욱
-양유진
-유지수
-홍정민
+**SKKU DMLab** \[[site](<https://sites.google.com/view/skkudm/>)\]  
+[손종욱](<https://github.com/jwson0308/>)  
+[양유진](<https://github.com/cneyang/>)  
+[유지수](<https://github.com/jis-u71/>)  
+[홍정민](<https://github.com/Hong-Jeongmin/>)  
