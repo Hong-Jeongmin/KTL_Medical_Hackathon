@@ -1,0 +1,15 @@
+1. Cardiomegaly
+-분류
+
+2. Pneumothorax
+-분류
+-(분류 후)분할
+
+3. Mammography
+-분류
+
+4. 기타 추가 기능
+-Pneumothorax
+  먼저 Pneumothorax의 유무를 Inception model로 분류한 후,
+  양성이라고 판단되는 데이터만 분할모델에 넣어 mask를 생성합니다.
+  분류 모델은 PM_clf.pth, 분할모델은 PM_seg.pth에 저장되어있습니다.
