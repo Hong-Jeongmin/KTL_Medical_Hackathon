@@ -1,10 +1,12 @@
 # 의료 빅데이터 활용 AI 영상진단 개발 해커톤
 
+:sparkles: **2nd Prize** 
 
-**Task:**
+:sparkles: **Task:**
 - Cardiomegaly(CM)
 - Pneunomothorax (PM)
 - Mammography (MG)
+
 
 # Collaborator
 SKKU DMLab 
